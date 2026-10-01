@@ -34,7 +34,7 @@ export const SUMMARY_ITEMS: SummaryItem[] = [
     label: 'I have a curious streak for science, nanotechnology, and how tiny things shape big ideas',
     imageSrc: '/nano.png',
     description:
-      'I have always been fascinated by science and emerging technologies, especially the strange world of nanotechnology. Exploring how materials and systems behave at incredibly small scales scratches the same itch as marketing: understanding how small changes can create surprisingly big effects.',
+      'I have always been fascinated by science and emerging technologies, especially the world of nanotechnology. Exploring how materials and systems behave at incredibly small scales scratches the same itch as marketing: understanding how small changes can create surprisingly big effects.',
   },
   {
     id: 'Making',
